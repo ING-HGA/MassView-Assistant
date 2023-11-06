@@ -16,11 +16,15 @@ I hope this little program helps someone.
 ```
 install.packages(c('Shiny', 'MALDIquant', 'MALDIquantForeing'))
 ```
-3. Set a working directory where the app folder is, on R Studio you can do it by selecting Session > Set Working Directory > Choose Directory ... or by console:
+3. Set a working directory where the app folder is, on R Studio you can do it by selecting **Session > Set Working Directory > Choose Directory** ... or by console:
 ```
 swd("/Users/UserName/Desktop")
 ```
-4. In the console execute (Github change the name of the project be sure you put the name of the folder in the following command in quotation marks):
+4. Loand Shiny library:
+```
+library(Shiny)
+```
+5. In the console execute (**Github change the name of the project be sure you put the name of the folder in the following command in quotation marks**):
 ```
 runApp(“MassView Assistant”)
 ```
