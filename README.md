@@ -11,7 +11,7 @@ My teammates rapidly suggested some functions, and because of that, I decided to
 I hope this little program helps someone.
 
 ## How to install
-1. Download the full project or clone it.
+1. Download the full project or clone it (green button in GitHub project main).
 2. In R, or Rstudio (suggested), install the Shiny, MALDIquant, and MALDIquantForeing packages, it can be done with the command:
 ```
 install.packages(c('Shiny', 'MALDIquant', 'MALDIquantForeing'))
