@@ -20,7 +20,7 @@ install.packages(c('Shiny', 'MALDIquant', 'MALDIquantForeing'))
 ```
 swd("/Users/UserName/Desktop")
 ```
-4. Loand Shiny library:
+4. Load Shiny library:
 ```
 library(Shiny)
 ```
