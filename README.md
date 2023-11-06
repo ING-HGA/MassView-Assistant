@@ -5,7 +5,9 @@ Authors: Guillén-Alonso Héctor & Winkler Robert
 
 ## Motivation
 Depending on the OS the possibility to use specialized software is different, the R project runs under any of the principal systems (MacOS, Windows, and Linux). I started this little project to preview MS spectra on the local machine. 
+
 My teammates rapidly suggested some functions, and because of that, I decided to make the minimum viable product and share it with the community while we improved the new functions according to the interests of the community and our lab. 
+
 I hope this little program helps someone.
 
 ## How to install
