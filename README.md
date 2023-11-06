@@ -20,7 +20,7 @@ install.packages(c('Shiny', 'MALDIquant', 'MALDIquantForeing'))
 ```
 swd("/Users/UserName/Desktop")
 ```
-4. In the console execute:
+4. In the console execute (Github change the name of the project be sure you put the name of the folder in the following command in quotation marks):
 ```
 runApp(“MassView Assistant”)
 ```
